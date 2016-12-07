@@ -9,16 +9,16 @@ A detailed explanation of the original project can be found <a href="http://blog
 
 Steps to run the project:
 
-1) Install Node.js
-2) Download this GitHub project
-3) Create application on Twitter to get these values:
-	API key > consumer_key
-	API secret > consumer_secret
-	Access token > access_token_key
-	Access token secret > access_token_secret
-4) Install the dependencies (defined in package.json). From the terminal, cd to the project directory you downloaded so you are in the same folder as server.js. Then do:
-	npm install
-5) Run the server:
-	node server.js
+1) Install Node.js <br>
+2) Download this GitHub project <br>
+3) Create application on Twitter to get these values: <br>
+	API key > consumer_key <br>
+	API secret > consumer_secret <br>
+	Access token > access_token_key <br>
+	Access token secret > access_token_secret <br>
+4) Install the dependencies (defined in package.json). From the terminal, cd to the project directory you downloaded so you are in the same folder as server.js. Then do: <br>
+	npm install <br>
+5) Run the server: <br>
+	node server.js <br>
 
 You should then be able to open a browser and access http://localhost:8081.
